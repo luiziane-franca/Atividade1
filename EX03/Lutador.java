@@ -5,10 +5,6 @@
  */
 package luiza08102021_03;
 
-/**
- *
- * @author Nid
- */
 public class Lutador {
     String nome;
     int energia;
