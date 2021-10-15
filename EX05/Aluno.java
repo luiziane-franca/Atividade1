@@ -5,10 +5,6 @@
  */
 package luiza091021_05;
 
-/**
- *
- * @author Nid
- */
 public class Aluno {
     String nome;
     String cpf;
