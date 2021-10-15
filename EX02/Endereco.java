@@ -5,10 +5,7 @@
  */
 package EX02;
 
-/**
- *
- * @author Nid
- */
+
 public class Endereco {
     String rua;
     int numero;
