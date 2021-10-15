@@ -5,10 +5,6 @@
  */
 package luiza091021_04;
 
-/**
- *
- * @author Nid
- */
 public class Luiza091021_04 {
 
     /**
