@@ -6,8 +6,7 @@
 package EX01;
 
 /**
- *
- * @author Nid
+
  */
 public class Main {
 
