@@ -5,10 +5,6 @@
  */
 package EX02;
 
-/**
- *
- * @author Nid
- */ 
 public class Main {
 
     /**
