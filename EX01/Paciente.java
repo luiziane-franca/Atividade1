@@ -5,10 +5,6 @@
  */
 package EX01;
 
-/**
- * String, Int, Bool, Float
- * @author Nid
- */
 public class Paciente {
     int cod;
     String nome;
