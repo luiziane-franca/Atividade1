@@ -7,10 +7,6 @@ package EX02;
 
 import EX02.Endereco;
 
-/**
- *
- * @author Nid
- */
 public class Medico {
     int codigo;
     String nome;
